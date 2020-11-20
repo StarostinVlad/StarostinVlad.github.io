@@ -2,7 +2,7 @@
   "domain":"https://fanserial.net",
   "proxy":{
     "ip":"192.168.1.105",
-    "port":"5555"
+    "port":5555
   },
   "review":"1.0.7"
 }
