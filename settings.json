@@ -4,6 +4,6 @@
     "ip":"45.138.159.126",
     "port":53429
   },
-  "review":true,
-  "last_version":21
+  "review":false,
+  "last_version":22
 }
